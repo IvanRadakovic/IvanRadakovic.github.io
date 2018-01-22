@@ -6,22 +6,21 @@ categories: blog
 ---
 ![Ivan]({{"/assets/ivan.png" | absolute_url}}){:style="margin: 0 auto; display: block;"}
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<h3>What are my expectations of the class?</h3>
+When I signed up for this class, I did not know what to expect. I assumed that we would be learning object-oriented techniques similar to what was covered in data structures. However, after the first lecture, I was thrilled to find out that this class is all about learning C++. I've always wanted to learn C++ because it is such a powerful language that is used in almost every industry. Also, I expect to learn tools that are going to be useful when working in the industry.
 
-Jekyll also offers powerful support for code snippets:
+<h3>What did I do this past week?</h3>
+On Wednesday, we started off by introducing ourselves to our classmates so we would have someone to talk to about this class. Afterwards, we discussed our expectations for this course. The lecture concluded with a discussion of the sylabus. In the next lecture, we briefly discussed docker and assertions. I already had experience with asserts so that material was fairly easy to grasp.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<h3>What's in my way?</h3>
+So far, the class seems to be pretty straightforward, but I am worried how intense the workload will become. Time is going to be scarce this semester because I will have to balance other classes, band, ultimate, frisbee, and being a TA.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<h3>What will I do next week?</h3>
+Next week, I expect to begin reading the first couple chapters of the textbook and to dive into learning C++ syntax. I have very little experience with the language, but the little that I do know should be enough to give me a strong start. Outside of this class, I am going to start my duties as a TA for data structures with Mike Scott.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<h3>What's my experience with the class?</h3>
+I like that Downing tries to make a personal connection with each student by calling on them and having a conversation about what he is teaching. Also, I think that is will be very useful to learn how to use tools like Docker, Google Test, and Travis CI. Even though they might not be the exact tools I will use later in my career, the skills I learn now about unit tests and continuous integration will transfer to other tools that do similar tasks.
+
+<h3>What's my pick-of-the-week or tip-of-the-week?</h3>
+Speaking of tools, my favorite new tool that I recently learned about has got to be Docker. I have struggled numerous times with setting up dev environments that just did not want to work on other computers. With Docker, I will never have to worry about saying "it worked on my computer".
