@@ -7,8 +7,23 @@ categories: blog
 ![Ivan]({{"/assets/ivan.png" | absolute_url}}){:style="margin: 0 auto; display: block;"}
 
 
-What did you do this past week?
-What's in your way?
-What will you do next week?
-What's my experience of the class?
-What's my pick-of-the-week or tip-of-the-week?
+<h3>What did I do this past week?</h3>
+In class, Downing walked us through setting up our workflow and getting started on the project. This turned out to be immensely helpful because getting everything set up is non-trivial. We discussed some clever optimizations for the project such as a lazy and eager cache. Another interesting thing we discussed in the class today was the subtle difference between i++ and ++i. Even though I already knew the difference, I enjoyed the fact that we went into so much detail because it means that we will most likely deep dive again in something that is unfamiliar to me. Outside of class, I spent my time setting up the workflow.
+
+<h3>What's in my way?</h3>
+The biggest struggle this week was getting Travis to connect and build my project. I followed all the steps and it just did not want to work. After letting it simmer overnight it decided on its own to connect, but it did not want to build. To get the builds to start working, I need to trigger the first build manually, and then it started working automatically.
+
+<h3>What will I do next week?</h3>
+Now that I have finally set everything up, I can begin working on the project. I first plan on getting the program to work by implementing the naive solution and making sure it works. Afterwards, I will start optimizing it by implementing the solutions we talked about in class and the ones mentioned in the quiz.
+
+<h3>What's my experience with the class?</h3>
+So far, I enjoy the class because we are given guidance on the projects unlike CS 439. I also want to reiterate how I liked that Downing goes out of his way to have a personal connection with each student by calling on them and walking through the lecture with them. It makes the lectures seem like a one on one experience.
+
+<h3>What's my pick-of-the-week or tip-of-the-week?</h3>
+I hate getting email spam so when I noticed that Travis sends an email every time a build finishes, I knew I needed to do something about it. There is no setting to disable this, so I had to add the following code to my .travis.yml file.
+{% highlight yml %}
+notifications:
+  email:
+    on_success: never
+    on_failure: never
+{% endhighlight %}
