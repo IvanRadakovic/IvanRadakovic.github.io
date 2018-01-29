@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week Two"
+date:   2018-01-28 18:00:00 -0600
+categories: blog
+---
+![Ivan]({{"/assets/ivan.png" | absolute_url}}){:style="margin: 0 auto; display: block;"}
+
+
+What did you do this past week?
+What's in your way?
+What will you do next week?
+What's my experience of the class?
+What's my pick-of-the-week or tip-of-the-week?
