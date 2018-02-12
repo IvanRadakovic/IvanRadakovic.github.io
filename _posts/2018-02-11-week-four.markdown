@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Week Four"
+date:   2018-02-11 18:00:00 -0600
+categories: blog
+---
+![Ivan]({{"/assets/ivan.png" | absolute_url}}){:style="margin: 0 auto; display: block;"}
+
+
+<h3>What did I do this past week?</h3>
+This week, we started off by talking about the second project. In class talked about simple optimizations we could make to the program, and afterwards, I continued to brainstorm ideas. I think the best way to approach a problem is to firsts completely understand it, and then to let it sit in your brain so you can think of the best way to approach it. During lecture we discussed l-values, r-values, argument passing and all the uses of const. On Saturday, my partner and I began working on the voting project, and we are mostly finished.
+
+<h3>What's in my way?</h3>
+Currently, there is nothing that I am worried about. I understand the material that we are covering in class, and it is remarkably interesting learning the small nuances of C++. On the project front, everything seems to be going smoothly. My partner and I just need to document our code and submit the assignment on Piazza and we will be done.
+
+<h3>What will I do next week?</h3>
+Next week I will finish up the project and read the next couple chapter from the textbook. After that, I have no major plans for this class this week. I will most likely focus preparing for my upcoming midterms.
+
+<h3>What's my experience with the class?</h3>
+I am still enjoying this class a lot and the projects are fun. They remind me of the competitive programming competitions that I did a lot in high school. That is also the reason that I really like the competitive programming club here, but I usually have something that conflicts with the Friday competitions. Also, I like that I am forced to learn C++ because I have always meant to do it because it is such a powerful language that sees a lot of use in may industries. I feel like this class will help prepare me for future internships and eventually employment.
+
+<h3>What's my pick-of-the-week or tip-of-the-week?</h3>
+If you ever need to perform any mathematical calculations, then an online calculator is a must. I have come to rely on [Cymath](https://www.cymath.com/). It is really easy to use, and it has a clean interface. On top of that, it shows you how to work out the answer so that you can maybe even learn something in the process.
+
