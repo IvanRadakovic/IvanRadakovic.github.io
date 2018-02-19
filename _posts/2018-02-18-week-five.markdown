@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week Five"
+date:   2018-02-18 18:00:00 -0600
+categories: blog
+---
+![Ivan]({{"/assets/ivan.png" | absolute_url}}){:style="margin: 0 auto; display: block;"}
+
+
+<h3>What did I do this past week?</h3>
+This week, we started off by reviewing all the combinations of const pointers and how, and then we discussed how they relate to reference variables. Afterwards, we had some much needed HackerRank practice because we have our first midterm coming up. On Wednesday, the first thing we talked about was how to use template and typename to make our code more generic. Afterwards, we discussed the most interesting topic all week: iterators. Even though it might not seem thrilling on the surface, it is extremely useful because it prevents you from accidentally degrading the performance of your code. Java will let you sort a liked list, while C++ refuses to compile.
+
+<h3>What's in my way?</h3>
+As of right now, I am doing well in the object-oriented programming. The HackerRank assignments we do in class are fairly simple, and I feel pretty confident about the exam next week. However, the biggest obstacle that I currently face is the algorithms midterm. Because it is a proof based course, the difficulty of the exam is mostly based on the difficulty of the problems. Studying can help, but for most problems, you have to figure out the trick to solve them.
+
+<h3>What will I do next week?</h3>
+Next week I plan to study for the exam and hopefully do more HackerRank practice problems. Also, I plan on continuing to read the textbook and the assigned reading for the week. Outside of this class I also need to continue studying for algorithms.
+
+<h3>What's my experience with the class?</h3>
+I really enjoy getting to know the less discussed topics of C++. Most textbooks will start by discussing variables, loops, and then standard libraries. I like that we are talking about iterators and consts.
+
+<h3>What's my pick-of-the-week or tip-of-the-week?</h3>
+My tip-of-the-week is the chrome extension [Grammarly](https://www.grammarly.com/). I use it on a weekly basis to write these blogs. The way it works is that it checks your grammar and spelling as you type in any text field online. This is immensely useful for everything from writing emails to answering questions on Piazza.
