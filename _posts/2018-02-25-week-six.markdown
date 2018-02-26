@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week Six"
+date:   2018-02-25 18:00:00 -0600
+categories: blog
+---
+![Ivan]({{"/assets/ivan.png" | absolute_url}}){:style="margin: 0 auto; display: block;"}
+
+
+<h3>What did I do this past week?</h3>
+This past week in class we did not cover a lot of new topics, but instead, we reviewed what we have already learned through HackerRank exercises. I am quite pleased with this change of pace as it allowed us to get more practice with the material that will be on the test. Also, this is helpful for preparing us for the test because the midterm will be all on HackerRank, and it will be very similar to the exercises. Speaking of the exercises, one of the more interesting exercises we had this week was making our iterator. It enabled us to get more comfortable with templates and typenames.
+
+<h3>What's in my way?</h3>
+There is nothing in my way as of now. I feel pretty confident about the upcoming midterm mostly because I have not had much trouble with the HackerRank exercises that we have been doing in class. Also, there is no project that I have to worry about right now, so I am just coasting. However, the only thing I am uncertain about is what to put on my cheat sheet because we are not allowed to put code on there. When it comes to writing code, there are some small C++ style things that I am not 100% confident with.
+
+<h3>What will I do next week?</h3>
+I plan on going back through all the HackerRank exercises from the beginning of the course and seeing if I can complete them without any hints. I also plan on reviewing some old class notes to make my cheat sheet for the exam. Besides that, I plan on continuing to read the SOLID papers and the assigned chapters from the textbook.
+
+<h3>What's my experience with the class?</h3>
+The most recent thing that I like about this class is the tie-in with HackerRank because it allows us to isolate a concept and learn it without having to worry about unrelated fluff. For example, when we were tasked with writing our own equal function that takes two iterators, we only had to write the function and run it. We did not have to make the test framework or even worry about compilation. I also like that we can go back anytime and practice old exercises.
+
+<h3>What's my pick-of-the-week or tip-of-the-week?</h3>
+My tip-of-the-week is on how to disable Piazza stories. Go to the gear icon in the top right corner, click on Account/Email settings, scroll down to the very bottom and click to disable Piazza Careers and Stories. Now you don't have to worry about it showing up in your class list.
