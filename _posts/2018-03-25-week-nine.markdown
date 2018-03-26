@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week Nine"
+date:   2018-03-25 18:00:00 -0600
+categories: blog
+---
+![Ivan]({{"/assets/ivan.png" | absolute_url}}){:style="margin: 0 auto; display: block;"}
+
+
+<h3>What did I do this past week?</h3>
+After we came back from Spring Break, we resumed lecture by talking about the uses of the keyword friend and how to implement it correctly. Also, we discussed how to implement our own version of the vector class.  Outside of class, my partner and I finally began working the allocator project. We were supposed to work on it over the break, but we never did which was probably for the better because pair programming is the easiest in person. We ended up finishing the project in two days.
+
+<h3>What's in my way?</h3>
+As of right now, there is nothing in my way. My partner and I found the allocator project to be fairly straightforward. The last midterm is not until the end of the semester so I am just cruising until then. The quizzes are a little challenging only because if you have a small misunderstanding in one question, you will most likely get other questions wrong as well.
+
+<h3>What will I do next week?</h3>
+Next week I plan on finding a new partner for the Darwin project because I find pair programming really practical for debugging purposes. Having two sets of eyes look over code makes syntax errors a lot less common. I also plan on reading the papers for this week.
+
+<h3>What's my experience with the class?</h3>
+I am enjoying talking about the nuances of C++ and the standard library because anyone can learn basic syntax in a week and start writing code. However, it takes a thorough knowledge of a language to apply best practices to make your code efficient and easy to read.
+
+<h3>What's my pick-of-the-week or tip-of-the-week?</h3>
+My tip-of-the-week is the [Teletype package](https://teletype.atom.io/) for the [Atom editor](https://atom.io/). This package enables you to share your workspace in real-time similar to Google Docs. This is really useful for pair programming when the people collaborating cannot be in the same room. One of the best features is that the central server is only used to connect people together, and the collaborators share code directly peer-to-peer. Teletype uses WebRTC to encrypt everything so you do not have to worry about anyone stealing your code.h thousands of community made packages.
