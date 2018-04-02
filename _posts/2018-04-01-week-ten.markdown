@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Week Ten"
+date:   2018-04-01 18:00:00 -0600
+categories: blog
+---
+![Ivan]({{"/assets/ivan.png" | absolute_url}}){:style="margin: 0 auto; display: block;"}
+
+
+<h3>What did I do this past week?</h3>
+This past week we talked about the next project, Darwin, and we went over how to make UML diagrams. In class, we implemented more of the vector class through Hackerrank exercises. Also, we talked about overloading methods and how to take an r-value, l-value, and const l-value. In addition, my partner and I did the header file for the Darwin project, and we know how we are going to implement the code.
+
+<h3>What's in my way?</h3>
+There is currently nothing in my way. By this point in the semester, I have figured out how to manage my time with all my classes, projects, and being a TA for 314. I have been doing fairly well on the quizzes and projects.
+Also, I do not have much trouble keeping up in class because if there is something I do not understand, I review on my own after class.
+
+<h3>What will I do next week?</h3>
+Next week, I plan on continuing to do the assigned chapter readings in addition to the papers. My partner and I plan on finishing the project and cleaning up our code. I also plan to study for the quizzes by looking at what we did in the previous class.
+
+<h3>What's my experience with the class?</h3>
+I like that Downing tries to make a personal connection with each student by calling on them and having a conversation about what he is teaching. Also, I think that is will be very useful to learn how to use tools like Docker, Google Test, and Travis CI. Even though they might not be the exact tools I will use later in my career, the skills I learn now about unit tests and continuous integration will transfer to other tools that do similar tasks.
+
+<h3>What's my pick-of-the-week or tip-of-the-week?</h3>
+My pick-of-the-week is [RegExr](https://regexr.com/). RegExr is an online tool to learn, build, and test regular expressions. You can type a regular expression and see what it will match. This really useful whenever you are trying to parse a website, document, or any large data set.
